@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T19:36:33 IST" name="Surefire suite" finished-at="2024-01-08T19:36:36 IST" duration-ms="3650">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T19:36:33 IST" name="Surefire test" finished-at="2024-01-08T19:36:36 IST" duration-ms="3650">
+      <class name="test.TestNG.BrowserSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:33 IST" name="setUp" finished-at="2024-01-08T19:36:34 IST" duration-ms="1761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="browseTest(java.lang.String)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:35 IST" name="browseTest" data-provider="testdata" finished-at="2024-01-08T19:36:36 IST" duration-ms="1349" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Science]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:36 IST" name="tearDown" finished-at="2024-01-08T19:36:36 IST" duration-ms="388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=browseTest status=SUCCESS method=BrowserSearchTest.browseTest(java.lang.String)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:36 IST" name="setUp" finished-at="2024-01-08T19:36:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="browseTest(java.lang.String)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:36 IST" name="browseTest" data-provider="testdata" finished-at="2024-01-08T19:36:36 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Social]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseTest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:36 IST" name="tearDown" finished-at="2024-01-08T19:36:36 IST" duration-ms="62" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=browseTest status=SUCCESS method=BrowserSearchTest.browseTest(java.lang.String)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="browseTest(java.lang.String)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:36 IST" name="browseTest" data-provider="testdata" finished-at="2024-01-08T19:36:36 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mathematics]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:36 IST" name="setUp" finished-at="2024-01-08T19:36:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6]" started-at="2024-01-08T19:36:36 IST" name="tearDown" finished-at="2024-01-08T19:36:36 IST" duration-ms="44" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=browseTest status=SUCCESS method=BrowserSearchTest.browseTest(java.lang.String)[pri:0, instance:test.TestNG.BrowserSearchTest@7f1302d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.TestNG.BrowserSearchTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
